@@ -1,7 +1,5 @@
 # **AD 616 - Enhancing Urban Bus Systems Through Data Analysis**
 
-### **Team: [Your Team Name]**
-
 ## **Project Overview**
 This project focuses on optimizing the Bus Rapid Transit System in Indore, India. We address the city's transportation challenges and propose solutions for a more efficient, sustainable urban transit system using data-driven methodologies.
 
